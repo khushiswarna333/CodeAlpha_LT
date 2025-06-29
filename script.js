@@ -8,7 +8,7 @@ async function translateText() {
     return;
   }
 
-  const apiKey = "AIzaSyCpfJEnL7GQl6CBzJhPxdgxoiD34Tqjp1U"; 
+  const apiKey = ; 
 
   const url = `https://translation.googleapis.com/language/translate/v2?key=${apiKey}`;
 
